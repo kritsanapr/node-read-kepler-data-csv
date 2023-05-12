@@ -23,7 +23,7 @@ And run project with command.
 node index.js
 ```
 
-
+#### Result response
 ```bash
 [
   'Kepler-1652 b',
